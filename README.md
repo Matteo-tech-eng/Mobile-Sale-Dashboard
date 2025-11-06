@@ -32,7 +32,9 @@ Sales are high early in the week, low in the middle of the week.
 # Dashboard 
 ![Dashboard](https://github.com/user-attachments/assets/ce50575d-eab0-44cc-b7ea-298af01c0706) 
 
-![MTD Report](https://github.com/user-attachments/assets/58600e30-f5c3-40e8-af5b-1a8640566ca2) ![Same Period Last Year report](https://github.com/user-attachments/assets/ef15fef6-18d6-47e9-a911-7ea38247c21f)
+![MTD Report](https://github.com/user-attachments/assets/58600e30-f5c3-40e8-af5b-1a8640566ca2) 
+
+![Same Period Last Year report](https://github.com/user-attachments/assets/ef15fef6-18d6-47e9-a911-7ea38247c21f)
 
 
 
